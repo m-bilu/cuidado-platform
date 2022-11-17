@@ -1,0 +1,10 @@
+.col-xs-5 {
+    display : flex;
+    background-color : #FF8166;
+    color : black;
+    font-size : 75px;
+    opacity : 0.5px;
+    margin-top : 50px;
+    padding-left : 110px;
+    margin-bottom: 100px;
+}

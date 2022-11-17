@@ -1,0 +1,57 @@
+.col-xs-4 {
+    display : flex;
+    background-color : #FF8166;
+    color : white;
+    font-size : 75px;
+    opacity : 0.5px;
+    margin-top : 20px;
+}
+
+#back {
+    margin-top : 100px;
+}
+
+#left {
+    background-image: url(../../assets/MyGangWatch3.png);
+}
+
+#right {
+    background-color : #FF8166;
+}
+
+#left-text {
+    background-color : brown; 
+    color : white; 
+    margin-top : 20px;
+    margin-left : 10px;
+    margin-bottom : 20px;
+}
+
+#left-title {
+    font-size : 50px;
+    font-family : 'Segoe UI';
+    margin-left : 10px;
+}
+
+#titleback {
+    opacity : 0.5;
+}
+
+.container-fluid {
+    margin-top : 100px;
+    margin-left : 100px;
+}
+
+li {
+    color : white;
+    margin-top : 93px;
+}
+button {
+    color : black;
+    border-color: yellow;
+    border-style: hidden;
+    background-color: yellow;
+    margin-left: 200px;
+    margin-top: 50px;
+    margin-bottom : 50px;
+}
